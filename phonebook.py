@@ -2,7 +2,7 @@
 # This file contains every function that can be used in the "main.py" file
 
 # A path to save the file containing phone numbers
-phonebook = r"H:\Bazargan_Dev\Programming\Python_Workspace\FunProject\Simple_Phonebook\phone_numbers.txt"
+phonebook = r"PATH_TO_CREATE_AND_SAVE_THE_PHONEBOOK_FILE"
 
 # Define functions
 def AddNumbers(contact, number):
