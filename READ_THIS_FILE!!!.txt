@@ -1,0 +1,10 @@
+#################################################
+### Command line based Phonebook using Python ###
+#################################################
+
+* NOTE:
+	1) Please keep the "main.py" and "phonebook.py" together in the same directory to avoid
+	any troubles with importing the "phonebook.py" module.
+
+	2) In "phonebook.py" file at line 5, you have to set an address to save the "phonebook.txt" in that
+	directory.
