@@ -23,7 +23,7 @@ In "phonebook.py" file at line 5, you have to set an address to save the "phoneb
 phonebook = r"PATH_TO_CREATE_AND_SAVE_THE_PHONEBOOK_FILE"
 ```
 
-Set the path to save the file that contains contacts
+Set a path to save the file that contains contacts
 
 ## Screenshot
 ![phonebook_ss1](https://github.com/BazarganDev/PhoneBook/assets/124906353/75318c9e-9a07-492f-9e3e-64a81563baa0)
